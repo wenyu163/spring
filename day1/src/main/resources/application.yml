@@ -1,0 +1,12 @@
+server:
+  port: 8080
+  servlet:
+    context-path: "/"
+
+
+
+email:
+  user: 15082475079@163.com
+  code: 123
+  host: smtp.163.com
+  auth: true
