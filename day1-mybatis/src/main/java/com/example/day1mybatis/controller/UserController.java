@@ -13,6 +13,7 @@ public class UserController {
 
     @RequestMapping("/findById")
     public User findById(Integer id){
+        System.out.println(id);
         return userService.getUserById(id);
     };
 }
