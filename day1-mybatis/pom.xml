@@ -39,10 +39,16 @@
             <artifactId>mysql-connector-j</artifactId>
         </dependency>
 
+<!--        <dependency>-->
+<!--            <groupId>org.mybatis.spring.boot</groupId>-->
+<!--            <artifactId>mybatis-spring-boot-starter</artifactId>-->
+<!--            <version>3.0.3</version>-->
+<!--        </dependency>-->
+
         <dependency>
-            <groupId>org.mybatis.spring.boot</groupId>
-            <artifactId>mybatis-spring-boot-starter</artifactId>
-            <version>3.0.3</version>
+            <groupId>com.example</groupId>
+            <artifactId>dmybatis-spring-boot-start</artifactId>
+            <version>1.0-SNAPSHOT</version>
         </dependency>
 
         <dependency>

@@ -7,6 +7,9 @@
         <option value="$PROJECT_DIR$/day1/pom.xml" />
         <option value="$PROJECT_DIR$/day-mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/day1-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/day2-aotuconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/dmybatis-spring-boot-autoconfigure/pom.xml" />
+        <option value="$PROJECT_DIR$/dmybatis-spring-boot-start/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
